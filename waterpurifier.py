@@ -1,6 +1,3 @@
-DAY 2
-
-
 # Import necessary libraries
 import pandas as pd # data manipulation
 import numpy as np # numerical python - linear algebra
