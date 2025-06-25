@@ -10,6 +10,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error, r2_score
 # load the dataset
 df = pd.read_csv('water_quality.csv', sep=';')
+df
 df.info() # dataset info
 
 # rows and cols
@@ -17,9 +18,10 @@ df.shape
 (2861, 11)
 # Statistics of the data
 df.describe().T
-
+df.isnull().sum()
 # date is in object - date format
 df['date'] = pd.to_datetime(df['date'], format='%d.%m.%Y')
+df
 df.info()
 
 df = df.sort_values(by=['id', 'date'])
