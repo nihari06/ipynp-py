@@ -23,7 +23,7 @@ Water pollution poses serious threats to public health, agriculture, and aquatic
 ---
 
 
-**project:predicting water quality**
+# project:predicting water quality
 
 <img width="1919" height="1094" alt="Screenshot 2025-07-17 192057" src="https://github.com/user-attachments/assets/b096f99d-821f-4961-bf22-0fa516783154" />
 <img width="1903" height="1106" alt="Screenshot 2025-07-17 192126" src="https://github.com/user-attachments/assets/df6e28ca-0267-4793-bcbd-9819ed764cc7" />
