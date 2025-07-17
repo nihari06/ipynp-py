@@ -40,8 +40,8 @@ Water pollution poses serious threats to public health, agriculture, and aquatic
 
 ## 🌐 Live Demo 
 
-If hosted, add:
-🔗 [Click here to try the app](http://localhost:8501/#water-pollutants-predictor)
+ live video link:
+🔗 [Click here to try the app]()
 
 ---
 
