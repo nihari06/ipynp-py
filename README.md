@@ -1,11 +1,11 @@
 # WATER QUALITY PREDICTIONS 
-**Name**: PATHI VENKATA NIHARI
-**STD_Id**: STU669ba2c3e56f51721475779
-**Domain**: Python Programming
-**Program**: AICTE Virtual Internship – June 2025
-**Duration**: 1 Month (June 16 – July 16, 2025)
-**Focus Area**: Environmental Analytics & Machine Learning (Green Skills)
-**Project**:Water Quality Predictions
+**Name:** PATHI VENKATA NIHARI
+**STD_Id:** STU669ba2c3e56f51721475779
+**Domain:** Python Programming
+**Program:** AICTE Virtual Internship – June 2025
+**Duration:** 1 Month (June 16 – July 16, 2025)
+**Focus Area:** Environmental Analytics & Machine Learning (Green Skills)
+**Project:**Water Quality Predictions
 
 ## over view of this project
 
