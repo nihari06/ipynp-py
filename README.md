@@ -1,6 +1,4 @@
-# WATER QUALITY PREDICTIONS 
-
-# 💧 Water Quality Prediction App
+# 💧 Water Quality Prediction 
 
 This project uses machine learning to predict water pollutant levels based on the **year** and **station ID**. It is built with Python and Streamlit and uses a trained model saved as `pollution_model.pkl`.
 
