@@ -41,7 +41,7 @@ Water pollution poses serious threats to public health, agriculture, and aquatic
 ## 🌐 Live Demo 
 
  live video link:
-🔗 [Click here to try the app]()
+🔗 [Click here to try the app](https://github.com/user-attachments/assets/74bcc27a-d6f1-4328-9748-ac743cd71061)
 
 ---
 
