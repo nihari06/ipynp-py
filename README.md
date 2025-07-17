@@ -14,7 +14,7 @@ This project uses machine learning to predict water pollutant levels based on th
 
 ---
 
-## over view of this project
+## Overview of this project
 
 ##  Problem Statement
 
