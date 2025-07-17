@@ -38,10 +38,10 @@ Water pollution poses serious threats to public health, agriculture, and aquatic
 - Built with **Streamlit** for an interactive UI
 ---
 
-## 🌐 Live Demo 
+## 🌐 Demo Link
 
- live video link:
-🔗 [Click here to try the app](https://github.com/user-attachments/assets/74bcc27a-d6f1-4328-9748-ac743cd71061)
+  video link:
+🔗 [Check the video](https://github.com/user-attachments/assets/74bcc27a-d6f1-4328-9748-ac743cd71061)
 
 ---
 
